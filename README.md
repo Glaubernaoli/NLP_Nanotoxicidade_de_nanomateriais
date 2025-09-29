@@ -18,50 +18,33 @@
 
 <div align="justify">
 o objetivo desse trabalho foi criar um dataset contendo informações da composição e tamanho de nanoparticulas, seu alvo biológico estudado e uma métrica associada de nanotoxicidade por meio de um processamento de linguagem natural, via REGEX e de Modelo de Linguagem, de aproximadamente 3 mil abstracts.
-<h2 align="left"> 🏹 Target </h2>
-
-<div align="justify">
-
-Para o modelo classificador binário:
- 
-`Maligno`: Crescimento de células cancerígenas, podendo haver metástase.
-
-Para o modelo regressor floresta aleatória:
-
-`Benigno`: Crescimento de células não cancerígnas.
-
-</div>
-
 
 <h2 align="left"> 📔 Notebooks e arquivos do projeto </h2>
 
 <div align="justify">
 
-`Breast-cancer.csv`: Dataset usado no trabalho.
+`Breast-cancer.csv`: Dataset gerado no trabalho.
  
 `Fera_4.1`: Neste notebook, estão todos os códigos necessários para rodar o modelo, seu treinamento e o cálculo das métricas.
 
 </div>
 
-<h2 align="left"> 🤖 Modelo Usado </h2>
+<h2 align="left"> 🤖 Modelos Usados </h2>
 
 <div align="justify">
 
- `Rede Neural Classificadora`: Este modelo classifica os tumores em malignos e belignos. 
+ `REGEX`: Este modelo classifica os tumores em malignos e belignos. 
 
+ `Modelo de Linguagem`: Este modelo classifica os tumores em malignos e belignos. 
+
+ 
 </div>
 
 <h2 align="left"> 🧰 Métricas Usadas </h2>
 
 <div align="justify">
 
-`Binary Cross Entropy (BCE)`: Função de perda usada para fazer a rede neural classificadora.
-
-`Acurácia`: métrica usada na classificação de problemass binários, que se baseia nos exemplos que foram corretamente identificados.
-
-`Precisão`: métrica usada na classificação de problemass binários, que se baseia nos exemplos que foram classificados com rótulo positivo e foram corretamente identificados.
-
-`Sensibilidade`: métrica usada na classificação de problemass binários, que se baseia nos exemplos que possuem um rótulo positivo e foram corretamente identificados.
+`Dataset de validação`: 30 abstracts selecionados a mão para validação dos modelos REGEX e Modelo de Linguagem.
 
 </div>
 
@@ -85,7 +68,7 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 
 <div align="justify">
 
-`Python`, `Jupyter Notebook`, `VS Code`, `Math`, `Scikit Learn`, `Numpy`, `Pandas` 
+`Python`, `Jupyter Notebook`, `VS Code`, `REGEX`, `Scikit Learn`, `Numpy`, `Pandas`, `OpenAI`, `SpaCy`
 
 </div>
 
@@ -93,8 +76,7 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 
 <div align="justify">
 
-1.  [Nguyen, B. et al. Genomic characterization of metastatic patterns from prospective clinical sequencing of 25,000 patients. Cell 185, 563-575.e11 (2022).](https://medium.com/ensina-ai/uma-explica%C3%A7%C3%A3o-visual-para-fun%C3%A7%C3%A3o-de-custo-binary-cross-entropy-ou-log-loss-eaee662c396c)
-2.  Daniel Cassar, Material de Aula, disciplina: Redes Neurais e Algoritmos Genéticos. 2025
+1.  James Morais de Almeida, Material de Aula, disciplina: Processamento de linguagem natural. 2025
 
 
 </div>
