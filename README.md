@@ -91,8 +91,8 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 
 <div align="center">
  
-|  [<img loading="lazy" src="https://github.com/user-attachments/assets/0c4d1ac3-f05b-499f-8618-bfaf749b3504" width=115><br><sub>Glauber Nascimento</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |
-| :---: |
+|  [<img loading="lazy" src="https://github.com/user-attachments/assets/0c4d1ac3-f05b-499f-8618-bfaf749b3504" width=115><br><sub>Glauber Nascimento</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) | [<img loading="lazy" src="https://github.com/user-attachments/assets/6b651959-1cd5-40f4-9ca3-68b05101f996" width=115><br> <sub>Lorena Ribeiro </sub>](https://github.com/Lorena881)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/6324363090286730)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/lorena-ribeiro-nascimento-7952a930b/) |
+| :---: | :---: |
 
 </div>
 
@@ -100,7 +100,7 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 
 <div align="center">
  
-| [<img loading="lazy" src="https://github.com/user-attachments/assets/463d4753-7fa4-4a42-aa54-409e4150bb51" width=115><br> <sub>Daniel R. Cassar </sub>](https://github.com/drcassar)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1717397276752482) | 
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/91ac1097-5a97-4a52-bac5-4a8f13bdfe10" width=115><br> <sub>James Morais de Almeita </sub>](https://github.com/drcassar)<br> [<sub>Currículo Lattes</sub>]([http://lattes.cnpq.br/1717397276752482](http://lattes.cnpq.br/4169321429650165)) | 
 | :---: | 
 
 </div>
