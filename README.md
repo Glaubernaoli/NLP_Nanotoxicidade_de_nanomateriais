@@ -23,9 +23,15 @@ o objetivo desse trabalho foi criar um dataset contendo informações da composi
 
 <div align="justify">
 
-`Breast-cancer.csv`: Dataset gerado no trabalho.
+`Dados_validação_nlp.xlsx`: Dataset de validação gerado para a análise dos modelos.
+
+`nanotox_extracao_final.xlsx`: Dataset gerado pelo modelo.
  
-`Fera_4.1`: Neste notebook, estão todos os códigos necessários para rodar o modelo, seu treinamento e o cálculo das métricas.
+`analises_NLP 4.ipynb`: Neste notebook, analisamos os dados obtidos na extração.
+
+`NLP_Nanotox 3.ipynb`: Aplicamos o preprocessamento, vetorização e REGEX
+ 
+`LLM-Extraction-completo (2).ipynb`: Extraçaõ dos dados
 
 </div>
 
